@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Matthew Snyder
 
 ### Fall 2022
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: Computer Science
 
-- Course
+-   Analytic Geometry and Calculus 1
 
-- Course 2
+-   Introduction to Computation and Programming
 
-- Course 3
+-   Introduction to Data Science
 
-- Course 4
+-   Python for Data Analytics
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am *passionate about*:
 
-- Thing 1
+-   Tennis
 
-- Thing 2
+-   Socializing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+-   Icosahedrons, as shown in this website <https://en.wikipedia.org/wiki/Icosahedron>
 
-***
+------------------------------------------------------------------------
 
 > Last modified: YYYY/MM/DD
